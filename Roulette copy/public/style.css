@@ -1,0 +1,37 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background: url("Live_Roulette-1200x650.jpeg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+  height:800px;
+}
+h1{
+  text-align:center;
+  color:goldenrod;
+  margin-top: 4%;
+}
+
+input{
+  text-align: center;
+  color:goldenrod;
+  background: black;
+}
+
+button{
+  text-align: center;
+  color:goldenrod;
+  background: black;
+}
+label{
+  color:white;
+}
+p{
+  color:red;
+}
+h2{
+  color:goldenrod;
+  font-weight: bolder;
+  margin-top: 4%;
+}
